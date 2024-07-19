@@ -23,6 +23,7 @@ The MERN stack is a popular choice for building full-stack web applications. Thi
 ### Project 1: Basic Calculator, BMI Calculator and Percentage Calculator Using Node.js and Express on localhost server at port 8000
 
 This project introduces the basics of Node.js and Express. You will learn how to set up a simple server and create basic routes.
+[View Project](https://github.com/RudrakshGit/MERN/tree/main/project1)
 
 ## Contributing
 
